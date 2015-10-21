@@ -1,0 +1,19 @@
+.left-column {
+	width: 30%;
+	box-sizing: border-box;
+	float: left;
+}
+.right-column {
+	margin-left: 5%;
+	width: 65%;
+	box-sizing: border-box;
+	float: right;
+}
+p {
+	display: inline-block;
+	margin-right: .3em;
+}
+input {
+	padding-right: 1em;
+	margin-right: 2em;
+}
